@@ -5,5 +5,5 @@
 
 ## Компиляция и запуск
 ```bash
-gcc fork.c -o fork
+gcc fork2.c -o fork
 ./fork
